@@ -21,7 +21,6 @@
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ---
-
 ### 📊 GitHub Stats
 
 ![Usama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Usama1442&show_icons=true&theme=default)
